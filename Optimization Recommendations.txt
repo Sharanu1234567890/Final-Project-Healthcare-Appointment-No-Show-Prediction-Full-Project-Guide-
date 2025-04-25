@@ -1,0 +1,5 @@
+After looking at your Power BI insights, give real recommendations:
+"Send SMS 48 hours in advance."
+"Avoid booking older patients on Mondays (high no-show rate)."
+"Double-book certain slots based on no-show probability."
+
